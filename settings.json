@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "gotyamenswear.aternos.me",
+    "port":  44893,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "ATERNOS AFK BOT BY SONIC X GOD!",
+        "I am used to keep your server active for 24/7"
       ]
     },
     "chat-log": true,
