@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gotyamenswear.aternos.me",
+    "ip": "hoki.aternos.host",
     "port": 44893,
     "version": "1.21.11",
     "try-creative": false
